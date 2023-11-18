@@ -1,0 +1,90 @@
+
+/* CSS 3 used */
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+    /* * selects the whole document 
+     */
+}
+
+header{
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between; 
+    /* display and justify to align icons let and right  */
+    /* text-align: center; */
+    
+}
+body {
+    background-color: #454545;
+    color: #fff;
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+    padding: 20px;
+    display: flex;
+}
+
+.left, .right {
+    flex-basis: 50%;
+    padding: 10px;
+}
+
+textarea {
+    width: 100%;
+    height: 150px; 
+    background: #1f1f1f;
+    color: #fff; 
+    padding: 10px 20px;
+    border: 0;
+    outline: 0;
+    font-size: 18px;
+}
+
+iframe {
+    width: 100%;
+    height: 80%;
+    background: #fff;
+    border: 0;
+    outline: 0;
+}
+
+label i {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+label {
+    display: flex;
+    align-items: center;
+    background: #000;
+    height: 20px;
+}
+
+footer
+{
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+a{
+    
+    text-decoration: none;
+    color: #fff;
+}
+
+.icon-align
+{
+    text-align: right;
+}
+
+
+   
