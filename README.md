@@ -49,6 +49,7 @@ This repository hosts an online code editor designed to provide a convenient env
 
 <h2>Contributions are welcome! If you'd like to contribute:</h2>
 
+    Star the repository
     Fork the repository.
     Create a new branch (git checkout -b feature/new-feature).
     Make your changes.
